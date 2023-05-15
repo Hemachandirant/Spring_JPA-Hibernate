@@ -1,6 +1,5 @@
 package com.learnspring.framwork.course.jpa;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import com.learnspring.framwork.course.jdbc.Course;
